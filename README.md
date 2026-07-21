@@ -1,5 +1,10 @@
-# Prazer, me chamo Diogo :)
+<img align="left" width="220" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"/>
 
-- Iniciante na área de programação
-- Linguagem Python
-- Atualmente, 16 anos
+```diff
+dev = {
+#   "name": "Diogo Monari", 
+-   "focus": "Software Development",
+!   "languages": ["Python", "JavaScript", "Go"],
++   "currently": "Building and learning"
+}
+```
